@@ -2747,10 +2747,10 @@
   {
    "downloads": 4099906,
    "name": "regress",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 4023291,
@@ -6907,6 +6907,14 @@
   {
    "downloads": 454715,
    "name": "pocketsphinx",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 453789,
+   "name": "cisco-ai-skill-scanner",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
@@ -15465,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Saturday, 05 September 2026, 20:32:08 UTC"
+ "last_update": "Sunday, 06 September 2026, 05:12:11 UTC"
 }
