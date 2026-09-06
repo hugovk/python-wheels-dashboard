@@ -3171,10 +3171,10 @@
   {
    "downloads": 3119642,
    "name": "biotite",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 3116651,
@@ -3251,10 +3251,10 @@
   {
    "downloads": 2979535,
    "name": "kornia-rs",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2970426,
@@ -3499,10 +3499,10 @@
   {
    "downloads": 2528620,
    "name": "loro",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2516337,
@@ -3619,10 +3619,10 @@
   {
    "downloads": 2367859,
    "name": "fastsafetensors",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2349516,
@@ -3715,10 +3715,10 @@
   {
    "downloads": 2243673,
    "name": "pyqt6-sip",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2219880,
@@ -3811,10 +3811,10 @@
   {
    "downloads": 2039327,
    "name": "manifold3d",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2034656,
@@ -3827,18 +3827,18 @@
   {
    "downloads": 2027854,
    "name": "qdldl",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2012618,
    "name": "pylibsrtp",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1994697,
@@ -3859,10 +3859,10 @@
   {
    "downloads": 1991413,
    "name": "mutf8",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1990534,
@@ -3875,10 +3875,10 @@
   {
    "downloads": 1983226,
    "name": "biotraj",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1959782,
@@ -4099,10 +4099,10 @@
   {
    "downloads": 1758604,
    "name": "tree-sitter-groovy",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1738876,
@@ -4131,10 +4131,10 @@
   {
    "downloads": 1716784,
    "name": "tree-sitter-objc",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1715777,
@@ -4171,10 +4171,10 @@
   {
    "downloads": 1699923,
    "name": "tree-sitter-zig",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1697495,
@@ -4187,10 +4187,10 @@
   {
    "downloads": 1689179,
    "name": "tree-sitter-julia",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1681734,
@@ -4259,10 +4259,10 @@
   {
    "downloads": 1638055,
    "name": "tree-sitter-toml",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1636572,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Sunday, 06 September 2026, 15:35:11 UTC"
+ "last_update": "Sunday, 06 September 2026, 18:47:24 UTC"
 }
