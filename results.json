@@ -1755,18 +1755,18 @@
   {
    "downloads": 11954987,
    "name": "libclang",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11933714,
    "name": "ctranslate2",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11917567,
@@ -1779,10 +1779,10 @@
   {
    "downloads": 11867128,
    "name": "chromadb",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11753395,
@@ -2283,10 +2283,10 @@
   {
    "downloads": 6407811,
    "name": "daft",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 6400416,
@@ -2787,10 +2787,10 @@
   {
    "downloads": 3941119,
    "name": "tables",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 3901093,
@@ -2931,10 +2931,10 @@
   {
    "downloads": 3581578,
    "name": "docling-parse",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 3575044,
@@ -3075,10 +3075,10 @@
   {
    "downloads": 3283574,
    "name": "rcssmin",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 3281727,
@@ -3115,10 +3115,10 @@
   {
    "downloads": 3214212,
    "name": "libsass",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 3179772,
@@ -3155,10 +3155,10 @@
   {
    "downloads": 3127506,
    "name": "igraph",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 3124607,
@@ -3179,10 +3179,10 @@
   {
    "downloads": 3116651,
    "name": "chroma-hnswlib",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 3066043,
@@ -3203,10 +3203,10 @@
   {
    "downloads": 3056852,
    "name": "css-inline",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 3051212,
@@ -3459,10 +3459,10 @@
   {
    "downloads": 2618016,
    "name": "pygeohash",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2590600,
@@ -3515,10 +3515,10 @@
   {
    "downloads": 2507442,
    "name": "pymediainfo",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2480480,
@@ -3595,10 +3595,10 @@
   {
    "downloads": 2387540,
    "name": "awkward-cpp",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2383960,
@@ -3747,10 +3747,10 @@
   {
    "downloads": 2170483,
    "name": "thriftpy2",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2157701,
@@ -3763,10 +3763,10 @@
   {
    "downloads": 2149510,
    "name": "viztracer",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2084919,
@@ -3907,10 +3907,10 @@
   {
    "downloads": 1942469,
    "name": "apsw",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1936558,
@@ -3979,10 +3979,10 @@
   {
    "downloads": 1883685,
    "name": "pystemmer",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1882911,
@@ -4035,10 +4035,10 @@
   {
    "downloads": 1835902,
    "name": "tree-sitter-lua",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1828277,
@@ -4435,10 +4435,10 @@
   {
    "downloads": 1461753,
    "name": "hidapi",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1444807,
@@ -4595,10 +4595,10 @@
   {
    "downloads": 1271155,
    "name": "zipfile-deflate64",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1268279,
@@ -4627,18 +4627,18 @@
   {
    "downloads": 1261199,
    "name": "tree-sitter-xml",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1258447,
    "name": "tree-sitter-dart",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1255171,
@@ -4739,10 +4739,10 @@
   {
    "downloads": 1210186,
    "name": "plotext",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1204431,
@@ -4763,10 +4763,10 @@
   {
    "downloads": 1201414,
    "name": "tree-sitter-html",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1199525,
@@ -4795,10 +4795,10 @@
   {
    "downloads": 1184911,
    "name": "minify-html",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1184733,
@@ -4851,10 +4851,10 @@
   {
    "downloads": 1161559,
    "name": "tree-sitter-markdown",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1160721,
@@ -4883,10 +4883,10 @@
   {
    "downloads": 1135467,
    "name": "typos",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1132002,
@@ -4923,10 +4923,10 @@
   {
    "downloads": 1127260,
    "name": "tree-sitter-css",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1126651,
@@ -5123,10 +5123,10 @@
   {
    "downloads": 1022962,
    "name": "ecos",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1019333,
@@ -5147,10 +5147,10 @@
   {
    "downloads": 1008123,
    "name": "mecab-python3",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1002651,
@@ -5211,10 +5211,10 @@
   {
    "downloads": 995336,
    "name": "fnv-hash-fast",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 989534,
@@ -5307,18 +5307,18 @@
   {
    "downloads": 957699,
    "name": "lazrs",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 957509,
    "name": "zipcodes",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 953014,
@@ -5427,10 +5427,10 @@
   {
    "downloads": 918019,
    "name": "lameenc",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 911167,
@@ -5595,10 +5595,10 @@
   {
    "downloads": 861025,
    "name": "zope-hookable",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 857660,
@@ -5611,10 +5611,10 @@
   {
    "downloads": 851696,
    "name": "pyfarmhash",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 845803,
@@ -5851,10 +5851,10 @@
   {
    "downloads": 750779,
    "name": "fuzzysearch",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 748009,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Monday, 07 September 2026, 05:25:44 UTC"
+ "last_update": "Monday, 07 September 2026, 09:04:12 UTC"
 }
